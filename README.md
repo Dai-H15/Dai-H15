@@ -2,6 +2,15 @@
 
 I'm student at INIAD ( Toyo University 🗾).
 
+### I'm good at ...
+- Python
+- Django
+- Docker
+- JS
+- HTML
+- C
+- and more .....
+
 ## More about...
 Please check my portfolio site.
 
