@@ -9,7 +9,6 @@ I'm student at INIAD ( Toyo University 🗾).
 - JS
 - HTML
 - C
-- and more .....
 
 ## More about...
 Please check my portfolio site.
