@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-**Dai-H15/Dai-H15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm student at INIAD ( Toyo University 🗾).
+
 
 Here are some ideas to get you started:
 
