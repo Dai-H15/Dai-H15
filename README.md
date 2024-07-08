@@ -1,7 +1,3 @@
-<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-9ndCyUaIbzAi2FUVXJi0CjmCapSmO7SnpJef0486qhLnuZ2cdeRhO02iuK6FUUVM" crossorigin="anonymous">
-
-
-
 ## Hi there 👋
 
 I'm student at INIAD ( Toyo University 🗾).
@@ -19,4 +15,3 @@ I'm student at INIAD ( Toyo University 🗾).
 Please check my portfolio site.
 
 <a href =  "https://dai-h15.github.io/my-portfolio/"> Click Here !!  </a>
-<button class = "btn btn-primary"> Test </button>
