@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there! 👋
 
-I'm student at INIAD ( Toyo University 🗾).
+I'm a student at INIAD (Toyo University 🗾).
 
-### I'm good at ...
+## Skill Set
+
+### Languages
 - Python
-- Django
-- Docker
-- JS
+- JavaScript (JS)
 - HTML
 - C
 
-## More about...
+### Frameworks
+- Django
+- Next.js
+
+### Tools
+- Docker
+
+## More About Me
 Please check my portfolio site.
 
-<a href =  "https://dai-h15.github.io/my-portfolio/"> Click Here !!  </a>
+[Click Here!!](https://dai-h15.github.io/my-portfolio/)
