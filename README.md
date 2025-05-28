@@ -1,23 +1,28 @@
-# Hi there! 👋
+# 👋 Hi there, I'm Dai-H15!
 
-I'm a student at INIAD (Toyo University 🗾).
+I'm a university student majoring in information science.  
+I love building things with **Python** and **Docker**, and I'm passionate about technology that powers the future.
 
-## Skill Set
 
-### Languages
-- Python
-- JavaScript (JS)
-- HTML
-- C
+---
 
-### Frameworks
-- Django
-- Next.js
+## 🔧 Skills & Interests
 
-### Tools
-- Docker
+- 🐍 **Python** / 🐳 **Docker** 
+- 💡 Interested in **LLM (Large Language Models)**, **HR Tech**, **Web Development**
+- 🖥️ Enthusiastic about **Server-side** and **Backend** engineering
 
-## More About Me
-Please check my portfolio site.
+---
 
-[Click Here!!](https://dai-h15.github.io/my-portfolio/)
+## 🚀 Featured Projects
+
+- [CRAIMAS](https://github.com/Dai-H15/CRAIMAS)
+- [omakasetodo](https://github.com/Dai-H15/omakasetodo)
+
+---
+
+## 🌏 Portfolio
+
+- [My Portfolio Website](https://dai-h15.github.io/my-portfolio/)
+
+---
